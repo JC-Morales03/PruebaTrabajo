@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROGRAMACION I - 2024I\\PruebaTrabajo\\PruebaTrabajo.csproj": {}
+    "C:\\Users\\user\\Desktop\\ticopera\\PruebaTrabajo\\PruebaTrabajo.csproj": {}
   },
   "projects": {
-    "D:\\PROGRAMACION I - 2024I\\PruebaTrabajo\\PruebaTrabajo.csproj": {
+    "C:\\Users\\user\\Desktop\\ticopera\\PruebaTrabajo\\PruebaTrabajo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROGRAMACION I - 2024I\\PruebaTrabajo\\PruebaTrabajo.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ticopera\\PruebaTrabajo\\PruebaTrabajo.csproj",
         "projectName": "PruebaTrabajo",
-        "projectPath": "D:\\PROGRAMACION I - 2024I\\PruebaTrabajo\\PruebaTrabajo.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\PROGRAMACION I - 2024I\\PruebaTrabajo\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\ticopera\\PruebaTrabajo\\PruebaTrabajo.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ticopera\\PruebaTrabajo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
